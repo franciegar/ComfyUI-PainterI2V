@@ -1,4 +1,3 @@
-<span id="chinese">
 此节点由抖音博主：绘画小子 制作。
 Wan2.2 图生视频增强节点，专门针对4步LoRA（如 lightx2v）的慢动作问题进行优化。
 🎯 解决的问题
@@ -63,12 +62,11 @@ LoRA模型名称
 📄 许可证
 MIT License
 🙏 致谢
-Wan2.2 Team: For the amazing video generation model
-ComfyUI Community: For the flexible node system
-Issue Reporters: For helping refine this node
+Wan2.2 团队: 提供惊人的视频生成模型
+ComfyUI 社区: 灵活的节点系统
+问题反馈者: 帮助完善此节点
 <div align="center">
 如果这个项目对你有帮助，请给颗星 ⭐️ 支持一下！
-</div>
 
 🎨 ComfyUI-PainterI2V
 <div align="center">
@@ -140,3 +138,4 @@ Example workflow (JSON)
 Sample input/output
 📄 License
 MIT License
+
