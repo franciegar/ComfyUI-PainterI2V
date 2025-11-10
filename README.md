@@ -58,7 +58,7 @@ git clone https://github.com/princepainter/ComfyUI-PainterI2V.git
 
 | 参数值 | 运动提升 | 亮度变化 | 适用场景     |
 |--------|----------|----------|--------------|
-| 1.0（原版） | 0%       | 无       | 慢动作特效   |
+| 1.0（原版） | 0%       | 无       | 和WAN原版节点无区别   |
 | 1.15（默认）| +15%     | 无       | 通用场景     |
 | 1.3    | +30%     | 无       | 体育运动     |
 | 1.5    | +50%     | 无       | 极限运动     |
@@ -139,7 +139,7 @@ In your workflow, replace `WanImageToVideo` with `PainterI2V`.
 
 | Parameter | Motion Boost | Brightness Change | Best For           |
 |-----------|--------------|-------------------|--------------------|
-| 1.0 (original) | 0%           | None              | Slow-motion effects |
+| 1.0 (original) | 0%           | None              | No difference from the original WAN node |
 | 1.15 (default) | +15%         | None              | General use        |
 | 1.3       | +30%         | None              | Sports action      |
 | 1.5       | +50%         | None              | Extreme motion     |
@@ -166,4 +166,5 @@ In your workflow, replace `WanImageToVideo` with `PainterI2V`.
 If you find this project helpful, please give it a star ⭐ to show your support!
 </div>
 # Restart ComfyUI
+
 
