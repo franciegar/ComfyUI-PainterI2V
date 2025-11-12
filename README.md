@@ -4,6 +4,8 @@
 
 Wan2.2 图生视频增强节点，专门针对4步LoRA（如 lightx2v）的慢动作问题进行优化。
 
+如果你用的是KJ的wan2.2-i2v工作流，请使用这个专门为KJ开发的节点，效果一致 (https://github.com/princepainter/ComfyUI-PainterI2VforKJ)
+
 ## 🛠 解决的问题
 
 - ✅ 1.减少慢动作：提升运动幅度 15-50%
@@ -121,6 +123,8 @@ PainterI2V node that specifically fixes the slow-motion issue in 4-step LoRAs (e
 
 The comparative effects in the above video are from my test using the official Wan2.2 model + Light2v 4-step I2V LoRA V1.0. The performance of other models awaits your own testing .
 
+If you're using KJ's wan2.2-i2v workflow, use this node specifically developed for KJ — the effect is consistent.https://github.com/princepainter/ComfyUI-PainterI2VforKJ
+
 ## 🛠 Problems Solved
 
 - ✅ Reduces Slow-Motion Drag: Increases motion amplitude by 15-50% 
@@ -200,6 +204,7 @@ In your workflow, replace `WanImageToVideo` with `PainterI2V`.
 If you find this project helpful, please give it a star ⭐ to show your support!
 </div>
 # Restart ComfyUI
+
 
 
 
